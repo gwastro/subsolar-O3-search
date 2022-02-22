@@ -15,8 +15,8 @@ where the eccentricity ranges from 0 to 0.3. The equivelant VT of the search for
 in separate files as a function of chirp mass. The VT is comparable for mass ratios within our searched region at fixed
 chirp mass, so can be extended in this way to a full distribution over m1/m2. 
 
-![Limits on sub-solar mass mergers](searches.png)
-![Limits on sub-solar mass mergers](chirpmass.png)
+![Search region](searches.png)
+![Limits on sub-solar mass mergers](rate.png)
 
 ## License and Citation
 
