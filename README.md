@@ -31,13 +31,17 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@article{Nitz:2021vqh,
+@article{Nitz:2022ltl,
     author = "Nitz, Alexander H. and Wang, Yi-Fan",
-    title = "{Broad search for gravitational waves from subsolar-mass binaries through LIGO and Virgo's third observing run}",
-    eprint = "2202.xxxxx",
+    title = "{Broad search for gravitational waves from subsolar-mass binaries through LIGO and Virgo\textquoteright{}s third observing run}",
+    eprint = "2202.11024",
     archivePrefix = "arXiv",
     primaryClass = "astro-ph.HE",
-    month = "2",
+    doi = "10.1103/PhysRevD.106.023024",
+    journal = "Phys. Rev. D",
+    volume = "106",
+    number = "2",
+    pages = "023024",
     year = "2022"
 }
 ```
